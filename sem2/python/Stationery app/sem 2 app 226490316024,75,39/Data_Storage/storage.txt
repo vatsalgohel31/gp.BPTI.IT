@@ -1,0 +1,4 @@
+Customer id: AWS9E3 Info :Date:03/15/2420:17:50Savings:RS 100.0/-Offer: BPTI10Total Amount :900.0
+Customer id: HWAK0W Info :Date:03/17/2413:32:51Savings:RS 1000.0/-Offer: BPTI10Total Amount :9000.0
+Customer id: NDW0PB Info :Date:03/18/2410:13:39Savings:RS 100.0/-Offer: BPTI10Total Amount :900.0
+Customer id: G0U6FS Info :Date:07/19/2611:20:47Savings:RS 20.0/-Offer: BPTI10Total Amount :180.0
